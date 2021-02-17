@@ -1,0 +1,39 @@
+{
+  "name": "wijmo-react-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@grapecity/wijmo": "5.20202.732",
+    "@grapecity/wijmo.styles": "5.20202.732",
+    "@grapecity/wijmo.input": "5.20202.732",
+    "@grapecity/wijmo.chart": "5.20202.732",
+    "@grapecity/wijmo.grid": "5.20202.732",
+    "@grapecity/wijmo.grid.detail": "5.20202.732",
+    "@grapecity/wijmo.grid.filter": "5.20202.732",
+    "@grapecity/wijmo.grid.grouppanel": "5.20202.732",
+    "@grapecity/wijmo.interop.grid": "5.20202.732",
+    "@grapecity/wijmo.react.input": "5.20202.732",
+    "@grapecity/wijmo.react.chart": "5.20202.732",
+    "@grapecity/wijmo.react.grid": "5.20202.732",
+    "@grapecity/wijmo.react.grid.detail": "5.20202.732",
+    "@grapecity/wijmo.react.grid.filter": "5.20202.732",
+    "@grapecity/wijmo.react.grid.grouppanel": "5.20202.732",
+    "bootstrap": "3.3.7",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
